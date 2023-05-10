@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/client-function-queenstown/static/css/main.8949b6e8.css",
-    "main.js": "/client-function-queenstown/static/js/main.54ed0742.js",
+    "main.js": "/client-function-queenstown/static/js/main.a6fa4f5f.js",
     "static/js/483.ff8fb835.chunk.js": "/client-function-queenstown/static/js/483.ff8fb835.chunk.js",
     "static/media/logo.svg": "/client-function-queenstown/static/media/logo.5048f749600413101ac3d10ac0edbc59.svg",
     "index.html": "/client-function-queenstown/index.html",
     "main.8949b6e8.css.map": "/client-function-queenstown/static/css/main.8949b6e8.css.map",
-    "main.54ed0742.js.map": "/client-function-queenstown/static/js/main.54ed0742.js.map",
+    "main.a6fa4f5f.js.map": "/client-function-queenstown/static/js/main.a6fa4f5f.js.map",
     "483.ff8fb835.chunk.js.map": "/client-function-queenstown/static/js/483.ff8fb835.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8949b6e8.css",
-    "static/js/main.54ed0742.js"
+    "static/js/main.a6fa4f5f.js"
   ]
 }
